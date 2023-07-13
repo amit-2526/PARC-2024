@@ -1,5 +1,4 @@
 # PARC-2024
-Conference Website Containing HTML, CSS, Javascript, Bootstrap and API
-
-<h1>PARC-2024</h1>
+<h3>A Conference fully-fledged website</h3>
+<img src = ""
 
