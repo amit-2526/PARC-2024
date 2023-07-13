@@ -15,6 +15,6 @@
 
 <img src = "https://github.com/amit-2526/PARC-2024/blob/main/Screenshot%20(53).png">
 
-<h1 align = "center" color = "Blue"> <a href = ""></a><h1></h1>
+<h1 align = "center" color = "Blue"> <a href = "https://amit-2526.github.io/PARC-2024/"></a></h1>
 
 
