@@ -17,6 +17,7 @@
 
 
 
- <a  href = "https://amit-2526.github.io/PARC-2024/"><h2 > Click Here</h2></a>
+
+ <a href="https://amit-2526.github.io/PARC-2024/">Click Here</a>
 
 
