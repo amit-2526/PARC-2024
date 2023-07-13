@@ -1,6 +1,6 @@
-<h1 align = "center"></h1>
-<h3 align = "center">A Conference fully-fledged website</h3>
-<h4 align = "center">Overview ❤️</h4>
+
+<h2 align = "center">A Fully-fledged Conference website</h3>
+<h3 align = "center">Overview ❤️</h3>
 <img src = "https://github.com/amit-2526/PARC-2024/blob/main/Screenshot%20(47).png">
 
 <img src ="https://github.com/amit-2526/PARC-2024/blob/main/Screenshot%20(48).png">
@@ -15,6 +15,6 @@
 
 <img src = "https://github.com/amit-2526/PARC-2024/blob/main/Screenshot%20(53).png">
 
-<h1 align = "center" color = "Blue"> <a href = "https://amit-2526.github.io/PARC-2024/"></a></h1>
+ <a align = "center" href = "https://amit-2526.github.io/PARC-2024/"><h2 color = "Blue"> Click Here</h2></a>
 
 
