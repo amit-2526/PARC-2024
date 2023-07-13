@@ -18,6 +18,6 @@
 
 
 
- <a href="https://amit-2526.github.io/PARC-2024/"><h1>Click Here</h1></a>
+ <a href="https://amit-2526.github.io/PARC-2024/" font-size = "20px">Click Here</a>
 
 
